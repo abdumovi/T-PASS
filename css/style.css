@@ -427,12 +427,22 @@ body{
   margin-bottom: 5px;  
 }
 .footer-links{
-  margin-left: 138px;
+  margin-right: 93px;
 }
 .foter-logo{
   margin-top: -19px;
+  margin-left: 60px;
 }
 .foter-decor-img1{
   position: absolute;
+}
+.foter-decor{
+  position: absolute;
+  transform: translate(-71%,-38%);
+}
+.decor1{
+  position: absolute;
+  right: 0;
+  transform: translate(79%,-18%);
 }
 /* /foter */
